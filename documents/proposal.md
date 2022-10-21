@@ -13,8 +13,8 @@ The data comes from [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-Univ
 
 It contains data for 2,142,715 scientific papers including authors,
 title, doi, categories, abstract, etc. I have filtered the dataset
-into a smaller one that only contains 1,073,608 papers that the last
-version was published after 2015.
+into a smaller one that only contains 379,985 papers that the last
+version was published after 2020.
 
 ## Tools:
 
