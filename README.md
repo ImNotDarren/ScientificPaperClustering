@@ -1,4 +1,4 @@
-# Stroke Scale Prediction
+# Scientific Paper Clustering
 
 ## Table of Contents
 - [Abstract](#link-part-1)
@@ -12,10 +12,11 @@
 
 ## <a name="link-part-1">Abstract</a>
 
-Electronic Health Record (EHR) data carries enormous amounts of medical
-treatment information that is not well structured, stored instead as free
-text. This data has great potential to provide insight into medical
-treatment and to facilitate retrospective studies.
+There are a lot of scientific papers online with different topics.
+Clustering papers that shares similar topics can provide researchers
+paper recommendations to help them find papers that they would be
+interested in and also to group the papers into categories so they
+can be looked up more easily.
 
 ## <a name="link-part-2">Design</a>
 
