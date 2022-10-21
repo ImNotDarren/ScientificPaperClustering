@@ -2,19 +2,19 @@
 
 ## Question/Need:
 
-Electronic Health Record (EHR) data carries enormous amounts of medical
-treatment information that is not well structured, stored instead as free
-text. This data has great potential to provide insight into medical
-treatment and to facilitate retrospective studies. This project aims to
-proceed natural language processing to analyze these data and use it to
-prodict stroke scale score.
+There are a lot of scientific papers online with different topics.
+Clustering papers that shares similar topics can provide researchers
+paper recommendations to help them find papers that they would be
+interested in and also to group the papers into categories so they
+can be looked up more easily.
 
 ## Data Description:
-The data comes from [National Institutes of Health Stroke Scale (NIHSS) Annotations for the MIMIC-III Database](https://doi.org/10.13026/gyjg-0t90)
+The data comes from [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
 
-It contains data for 312 stroke patients with 2929 NIHSS items, 2774
-measurements, and 2733 item-score relations. There are 7848 free text
-sentences in this dataset.
+It contains data for 2,142,715 scientific papers including authors,
+title, doi, categories, abstract, etc. I have filtered the dataset
+into a smaller one that only contains 1,073,608 papers that the last
+version was published after 2015.
 
 ## Tools:
 
@@ -27,4 +27,3 @@ sentences in this dataset.
 ## MVP Goal:
 My MVP goal is to analyze the data to build some virtualizations and a base
 model.
-
