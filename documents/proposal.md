@@ -9,7 +9,7 @@ interested in and also to group the papers into categories so they
 can be looked up more easily.
 
 ## Data Description:
-The data comes from [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+The data comes from [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv).
 
 It contains data for 2,142,715 scientific papers including authors,
 title, doi, categories, abstract, etc. I have filtered the dataset
