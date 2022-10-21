@@ -62,6 +62,4 @@ The project proposal is shown [here](/documents/proposal.md).
 
 
 ## <a name="link-part-8">Reference</a>
-- [1]: [Wang, J., Huang, X., Yang, L., & Li, J. (2021). National
-Institutes of Health Stroke Scale (NIHSS) Annotations for the
-MIMIC-III Database (version 1.0.0). PhysioNet.](https://doi.org/10.13026/gyjg-0t90.)
+- [1]: [Cornell University, Joe T., Devrishi, & Brian M. ArXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
