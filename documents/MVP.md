@@ -6,7 +6,7 @@ I have filtered rows from the original dataset and converted it into
 a dataframe. Then I proceeded natural language processing and converted
 words into a vector. The files for data analysis and NLP are [here](/data_processing).
 
-The LSA model generated two groups of words.
+The LSA model generated two groups of words. (Only containing top 20 words)
 
 Topic 1: ```['2d', '3d', 'abil', 'abl', 'abov', 'acceler', 'access', 'account', 'accuracy', 'action', 'activ', 'ad', 'addition', 'adopt', 'advanc', 'advantag', 'adversari', 'affect', 'agent', 'agreement']```
 
