@@ -17,4 +17,4 @@ Topic 2: ```['atom', 'band', 'black', 'charg', 'dark', 'decay', 'electr', 'elect
 I did topic modeling using LSA and clustered them into 5 clusters using
 K-means. The algorithm and virtualizations are shown [here](/model/baseline.ipynb).
 
-<img src='../imgs/baseline_clusters.png' style='width=50px' />
+<img src='../imgs/baseline_clusters.png' style='width=15px' />
