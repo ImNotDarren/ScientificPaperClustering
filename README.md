@@ -7,8 +7,7 @@
 - [Algorithm](#link-part-4)
 - [Tools](#link-part-5)
 - [Communication](#link-part-6)
-- [**How to run**](#link-part-7)
-- [Reference](#link-part-8)
+- [Reference](#link-part-7)
 
 ## <a name="link-part-1">Abstract</a>
 
@@ -59,9 +58,5 @@ The project proposal is shown [here](/documents/proposal.md).
 
 The MVP document is shown [here](/documents/MVP.md).
 
-## <a name="link-part-7">How to run</a>
-
-
-
-## <a name="link-part-8">Reference</a>
+## <a name="link-part-7">Reference</a>
 - [1]: [Cornell University, Joe T., Devrishi, & Brian M. ArXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
