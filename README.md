@@ -32,11 +32,24 @@ can be looked up more easily.
 
 
 
-**Feature Engineering:**
+**Topic Modeling:**
 
 
 **Models:**
 
+- **K-means model**:
+
+- - Selecting number of clusters:
+
+<img src="/imgs/selecting_clusters.png" style="width: 400px;" />
+
+- - Final number of clusters: 14
+
+- - Other hyperparameters: random_state=42, n_init=20
+
+- - Final clusters:
+
+<img src="/imgs/KMeans.png" style="width: 400px;" />
 
 
 **Model Evaluation and Selection:**
