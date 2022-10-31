@@ -115,13 +115,17 @@ and are pretty similar.
 
 ## <a name="link-part-6">Communication</a>
 
-For the paper "On Whitehead's cut vertex lemma" written by Rylee Alanza and Lyman, the
-recommender recommends **"Local rainbow colorings for various graphs"**, **"Even vertex
-$\zeta$-graceful labeling on Rough Graph"**, and **"Revisiting and improving upper bounds
-for identifying codes"** from the same cluster, and **"Numerical Solution of the 3-D
-Travel Time Tomography Problem"** and **"On irreducible representations of a class of
-quantum spheres"** which are also really similar to the selected paper but are from other
-clusters.
+For the paper **"On Whitehead's cut vertex lemma"** written by Rylee Alanza and Lyman, the
+recommender recommends the following papers from the same cluster:
+
+- **"Local rainbow colorings for various graphs"**
+- **"Even vertex $\zeta$-graceful labeling on Rough Graph"**
+- **"Revisiting and improving upper bounds for identifying codes"** 
+
+And paper from different clusters:
+
+- **"Numerical Solution of the 3-D Travel Time Tomography Problem"**
+- **"On irreducible representations of a class of quantum spheres"**
 
 <img src="/imgs/Recommender.png" style="width: 600px;" />
 
