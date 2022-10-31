@@ -59,7 +59,7 @@ stop words and punctuations.
 
 **Topic Modeling:**
 
-
+- Use LSA to turn the words into 20 topics
 
 **Models:**
 
@@ -74,6 +74,16 @@ stop words and punctuations.
 - - Final clusters:
 
 <img src="/imgs/KMeans.png" style="width: 400px;" />
+
+- **DBSCAN model**:
+
+- - Epsilon: 0.15
+
+- - min_samples: 5
+
+- - Final clusters:
+
+<img src="/imgs/DBSCAN.png" style="width: 400px;" />
 
 
 **Model Evaluation and Selection:**
