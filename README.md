@@ -59,7 +59,7 @@ stop words and punctuations.
 
 **Topic Modeling:**
 
-Use LSA to turn the words into 20 topics
+Use LSA to turn the words into 20 topics.
 
 Some topic examples:
 - 2d, background, detector, imaging, light, reconstruction, resolution,
@@ -114,6 +114,14 @@ and are pretty similar.
 * **Pickle** for saving models in a pickle file.
 
 ## <a name="link-part-6">Communication</a>
+
+For the paper "On Whitehead's cut vertex lemma" written by Rylee Alanza and Lyman, the
+recommender recommends **"Local rainbow colorings for various graphs"**, **"Even vertex
+$\zeta$-graceful labeling on Rough Graph"**, and **"Revisiting and improving upper bounds
+for identifying codes"** from the same cluster, and **"Numerical Solution of the 3-D
+Travel Time Tomography Problem"** and **"On irreducible representations of a class of
+quantum spheres"** which are also really similar to the selected paper but are from other
+clusters.
 
 The project proposal is shown [here](/documents/proposal.md).
 
