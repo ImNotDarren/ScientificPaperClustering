@@ -20,7 +20,7 @@ can be looked up more easily.
 
 ## <a name="link-part-2">Design</a>
 
-This project originates from the arXiv dataset. Clustering scientific
+This project originates from the [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv). Clustering scientific
 papers would enable scientific paper recommendation function to help
 researchers find papers that are similar to their research interests,
 or papers that are not in their research interests but they might be
@@ -41,9 +41,24 @@ the filtered dataset for clustering.
 
 **Data Cleaning:**
 
+1. Convert the original JSON file into a dataframe.
+2. Only select papers which the latest versions are released after 2020.
+3. Drop duplicate rows.
+4. Randomly ample 50,000 rows from the filtered dataframe.
+5. Get rid of all the '\n' charactors in their abstracts.
+6. Get stop words from package spacy.lang.en.stop_words and add customized
+stop words.
+7. Get punctuations from package string.punctuations.
+8. Use package en_core_sci_lg from spacy for lemmatization and filter all
+stop words and punctuations.
 
+**Word to Vector:**
+
+Use TfidfVectorizer to turn abstracts into vectors. (min_df=0.016, max_df
+=0.05)
 
 **Topic Modeling:**
+
 
 
 **Models:**
