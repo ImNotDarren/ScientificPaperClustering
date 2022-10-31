@@ -51,8 +51,6 @@ the filtered dataset for clustering.
 
 - - Final number of clusters: 14
 
-- - Other hyperparameters: random_state=42, n_init=20
-
 - - Final clusters:
 
 <img src="/imgs/KMeans.png" style="width: 400px;" />
