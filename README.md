@@ -24,7 +24,13 @@ can be looked up more easily.
 
 ## <a name="link-part-3">Data</a>
 
+The data comes from [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv).
 
+It contains data for 2,142,715 scientific papers including authors,
+title, doi, categories, abstract, etc. I have filtered the dataset
+into a smaller one that only contains 379,985 papers that the last
+version was published after 2020, and then sampled 50,000 rows from
+the filtered dataset for clustering.
 
 ## <a name="link-part-4">Algorithm</a>
 
@@ -74,7 +80,7 @@ The MVP document is shown [here](/documents/MVP.md).
 
 ## <a name="link-part-7">How to run</a>
 
-cd into [recommender](/recommender):
+cd into [/recommender](/recommender):
 ```
 cd recommender
 ```
