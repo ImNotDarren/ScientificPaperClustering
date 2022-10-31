@@ -88,9 +88,15 @@ stop words and punctuations.
 
 **Model Evaluation and Selection:**
 
+K-means model's clustering makes more sense and is better at clustering datasets
+like this. Many of the papers with in a same cluster are in the same category and
+show big similarity. Here are some examples:
 
-**Final scores:**
-
+Paper "Fast and Reliable Probabilistic Face Embeddings in the Wild", "Event and
+Activity Recognition in Video Surveillance for Cyber-Physical Systems", and "
+Transfer Learning from an Artificial Radiograph-landmark Dataset for Registration
+of the Anatomic Skull Model to Dual Fluoroscopic X-ray Images" are in cs.CV category
+and are pretty similar.
 
 
 ## <a name="link-part-5">Tools</a>
