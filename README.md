@@ -59,7 +59,14 @@ stop words and punctuations.
 
 **Topic Modeling:**
 
-- Use LSA to turn the words into 20 topics
+Use LSA to turn the words into 20 topics
+
+Some topic examples:
+- 2d, background, detector, imaging, light, reconstruction, resolution,
+sensitivity, sensor, ...
+- answer, gravitational, language, natural, production, question, resource,
+scalar, search, social, ...
+- channel, link, metric, platform, software, technology, user, ...
 
 **Models:**
 
