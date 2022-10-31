@@ -110,7 +110,7 @@ and are pretty similar.
 
 * **Pandas** for exploratory data analysis.
 * **Matplotlib** and **Seaborn** for plotting.
-* **Scikit Learn** for modeling and natural language process.
+* **Scikit Learn** and **spaCy** for modeling and natural language process.
 * **Pickle** for saving models in a pickle file.
 
 ## <a name="link-part-6">Communication</a>
