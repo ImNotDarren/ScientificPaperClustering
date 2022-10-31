@@ -14,7 +14,7 @@
 
 There are a lot of scientific papers online with different topics.
 Clustering papers that shares similar topics can provide researchers
-paper recommendations to help them find papers that they would be
+paper recommendations to help them recommend papers that they would be
 interested in and also to group the papers into categories so they
 can be looked up more easily.
 
