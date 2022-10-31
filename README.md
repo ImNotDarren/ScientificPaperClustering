@@ -20,7 +20,12 @@ can be looked up more easily.
 
 ## <a name="link-part-2">Design</a>
 
-
+This project originates from the arXiv dataset. Clustering scientific
+papers would enable scientific paper recommendation function to help
+researchers find papers that are similar to their research interests,
+or papers that are not in their research interests but they might be
+interested in. Looking for and reading papers can cost lots of time and
+this recommendation system can definately save time for researchers.
 
 ## <a name="link-part-3">Data</a>
 
