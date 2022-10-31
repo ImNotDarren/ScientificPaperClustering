@@ -123,6 +123,8 @@ Travel Time Tomography Problem"** and **"On irreducible representations of a cla
 quantum spheres"** which are also really similar to the selected paper but are from other
 clusters.
 
+<img src="/imgs/Recommender.png" style="width: 600px;" />
+
 The project proposal is shown [here](/documents/proposal.md).
 
 The MVP document is shown [here](/documents/MVP.md).
