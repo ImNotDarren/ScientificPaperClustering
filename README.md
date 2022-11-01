@@ -133,6 +133,8 @@ The project proposal is shown [here](/documents/proposal.md).
 
 The MVP document is shown [here](/documents/MVP.md).
 
+The slides are not available for now.
+
 ## <a name="link-part-7">How to run</a>
 
 cd into [/recommender](/recommender):
