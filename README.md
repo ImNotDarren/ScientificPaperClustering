@@ -45,7 +45,7 @@ the filtered dataset for clustering.
 - Only select papers which the latest versions are released after 2020.
 - Drop duplicate rows.
 - Randomly ample 50,000 rows from the filtered dataframe.
-- Get rid of all the '\n' charactors in their abstracts.
+- Get rid of all the '\n' characters in their abstracts.
 - Get stop words from package spacy.lang.en.stop_words and add customized
 stop words.
 - Get punctuations from package string.punctuations.
