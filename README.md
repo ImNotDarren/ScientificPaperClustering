@@ -70,6 +70,16 @@ scalar, search, social, ...
 
 **Models:**
 
+- **DBSCAN model**:
+
+- - Epsilon: 0.15
+
+- - min_samples: 5
+
+- - Final clusters:
+
+<img src="/imgs/DBSCAN.png" style="width: 400px;" />
+
 - **K-means model**:
 
 - - Selecting number of clusters:
@@ -81,16 +91,6 @@ scalar, search, social, ...
 - - Final clusters:
 
 <img src="/imgs/KMeans.png" style="width: 400px;" />
-
-- **DBSCAN model**:
-
-- - Epsilon: 0.15
-
-- - min_samples: 5
-
-- - Final clusters:
-
-<img src="/imgs/DBSCAN.png" style="width: 400px;" />
 
 
 **Model Evaluation and Selection:**
