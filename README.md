@@ -144,12 +144,12 @@ cd recommender
 
 Run the recommender by:
 ```
-python3 recommender.py $(paper_index)
+python3 recommender.py $(paper_id)
 ```
 
 For example:
 ```
-python3 recommender.py 3
+python3 recommender.py 2205.06071
 ```
 
 ## <a name="link-part-8">Reference</a>
