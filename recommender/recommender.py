@@ -5,8 +5,8 @@ import sys
 
 
 def main():
-    paper_index = int(sys.argv[1])
-    rec = Recommender(paper_index=paper_index)
+    paper_id = sys.argv[1]
+    rec = Recommender(paper_id=paper_id)
     papers = rec.recommend()
     print('Recommended papers:')
     for paper in papers[0]:

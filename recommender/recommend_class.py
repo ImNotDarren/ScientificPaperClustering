@@ -4,15 +4,22 @@ import pandas as pd
 import numpy as np
 
 class Recommender():
-    def __init__(self, paper_index):
+    def __init__(self, paper_id):
         self.clusters = None
         self.XsT = None
         self.df = None
         self.get_clusters()
 
-        self.paper_index = paper_index
+        self.paper_index = self.get_index(paper_id)
 
         self.cluster = self.get_cluster()
+
+
+    def get_index(self, paper_id):
+        index = self.df.index[self.df['id'] == paper_id].tolist()
+        paper_index = index[0]
+
+        return paper_index
 
 
     def get_clusters(self):
